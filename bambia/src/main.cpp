@@ -1,0 +1,23 @@
+
+
+#include "ofMain.h"
+#include "testApp.h"
+
+//#ifndef Included_Particle_H
+//#define Included_Particle_H
+#include "Particle.h"
+//#endif // Included_Particle_H
+
+//#include "Particle.cpp"
+
+//========================================================================
+int main( ){
+
+	ofSetupOpenGL(1024,768, OF_WINDOW);			// <-------- setup the GL context
+
+	// this kicks off the running of my app
+	// can be OF_WINDOW or OF_FULLSCREEN
+	// pass in width and height too:
+	ofRunApp( new testApp());
+
+}

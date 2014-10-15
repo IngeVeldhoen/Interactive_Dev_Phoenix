@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="polyMorf.cbp">
+			<Depends filename="../../../libs/openFrameworksCompiled/project/win_cb/openFrameworksLib.cbp" />
+		</Project>
+		<Project filename="../../../libs/openFrameworksCompiled/project/win_cb/openFrameworksLib.cbp" />
+		<Project filename="../opdracht6_8/opdracht6_8.cbp" />
+		<Project filename="../opdracht6_10/opdracht6_10.cbp" />
+		<Project filename="../opdracht6_11/opdracht6_11.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
